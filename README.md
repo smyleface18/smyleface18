@@ -43,8 +43,5 @@ Currently, I'm studying Software Engineering and focusing on software architectu
 
 
 
-
-## 🔗 Links
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-acosta-b70323315/)
-
-
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smyleface18&theme=transparent&border_radius=4.2&mode=weekly)](https://git.io/streak-stats)
