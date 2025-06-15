@@ -44,4 +44,4 @@ Currently, I'm studying Software Engineering and focusing on software architectu
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smyleface18&theme=transparent&border_radius=4.2&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smyleface18&theme=javascript-dark&border_radius=4.2&mode=weekly)](https://git.io/streak-stats)
