@@ -41,7 +41,7 @@ Currently, I'm studying Software Engineering and focusing on software architectu
 
 
 ##  🔥 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smyleface18&layout=compact&theme=dark&langs_count=4&hide=html,css,python) ![![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smyleface18&theme=gruvbox&mode=weekly&card_width=300&card_height=140)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smyleface18&layout=compact&theme=dark&langs_count=4&hide=html,css,python) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smyleface18&theme=gruvbox&mode=weekly&card_width=300&card_height=140)](https://git.io/streak-stats)
 
 
 
